@@ -1,0 +1,11 @@
+C:\code\noitawatch\filewatch\bin\Debug\netcoreapp2.2\filewatch.deps.json
+C:\code\noitawatch\filewatch\bin\Debug\netcoreapp2.2\filewatch.runtimeconfig.json
+C:\code\noitawatch\filewatch\bin\Debug\netcoreapp2.2\filewatch.runtimeconfig.dev.json
+C:\code\noitawatch\filewatch\bin\Debug\netcoreapp2.2\filewatch.dll
+C:\code\noitawatch\filewatch\bin\Debug\netcoreapp2.2\filewatch.pdb
+C:\code\noitawatch\filewatch\obj\Debug\netcoreapp2.2\filewatch.csprojAssemblyReference.cache
+C:\code\noitawatch\filewatch\obj\Debug\netcoreapp2.2\filewatch.csproj.CoreCompileInputs.cache
+C:\code\noitawatch\filewatch\obj\Debug\netcoreapp2.2\filewatch.AssemblyInfoInputs.cache
+C:\code\noitawatch\filewatch\obj\Debug\netcoreapp2.2\filewatch.AssemblyInfo.cs
+C:\code\noitawatch\filewatch\obj\Debug\netcoreapp2.2\filewatch.dll
+C:\code\noitawatch\filewatch\obj\Debug\netcoreapp2.2\filewatch.pdb
